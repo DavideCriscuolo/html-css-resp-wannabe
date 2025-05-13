@@ -139,6 +139,10 @@ img {
   .lessons .col {
     width: 100%;
   }
+
+  .steps {
+    margin: 0;
+  }
   .steps .col {
     width: 100%;
   }
@@ -147,6 +151,13 @@ img {
   }
   .card {
     margin-bottom: 50px;
+  }
+  .why-us {
+    margin: 0;
+    .container {
+      padding: 3rem 0;
+      background-color: #222222;
+    }
   }
 }
 @media screen and (max-width: 768px) {
